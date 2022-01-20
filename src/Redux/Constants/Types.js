@@ -1,0 +1,9 @@
+export const GET_ALL = 'GET_ALL';
+export const GET_ONE_PRODUCT = 'GET_ONE_PRODUCT';
+export const GET_ERRORS = 'GET_ERRORS';
+export const URI = 'URI';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGOUT='LOGOUT';
