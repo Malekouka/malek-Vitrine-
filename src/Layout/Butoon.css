@@ -1,0 +1,20 @@
+.croltop{
+    font-size: 20px;
+    color: #f1f1f1;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #be1e5a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+    position: fixed;
+    bottom:25px;
+    right:25px;
+}
+.croltop:hover{
+    background: #47b2e4;
+    color: #fff;
+}
